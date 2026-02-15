@@ -49,7 +49,7 @@ Go to: https://colab.research.google.com
 ### Step 4: Upload the Python file
 - Click the **folder icon** on the left panel
 - Click **Upload**
-- Select the Task-1 or Task-02 `.py` file
+- Select the Task-1 or Task-02 `.ipynb` file
 ### Step 5: Execute the file
 In a new cell, type:
 !python filename.py
