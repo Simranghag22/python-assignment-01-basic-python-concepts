@@ -51,10 +51,6 @@ Go to: https://colab.research.google.com
 - Click **Upload**
 - Select the Task-1 or Task-02 `.ipynb` file
 ### Step 5: Execute the file
-In a new cell, type:
-!python filename.py
-
-Replace filename.py with the actual file name.
 ### Step 6: Press Shift + Enter to run the program.
 
 
