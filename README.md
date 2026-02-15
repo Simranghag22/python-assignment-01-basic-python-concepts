@@ -41,7 +41,7 @@ This program:
 ## How to Run the Programs
 
 ### Using Google Colab:
-### Step 1: Download the Task-01 and Task-02 '.py' files.
+### Step 1: Download the Task-01 and Task-02 '.ipynb' files.
 ### Step 2: Open Google Colab
 Go to: https://colab.research.google.com
 ### Step 3: Create a New Notebook
